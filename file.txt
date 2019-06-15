@@ -1,2 +1,1 @@
-second line after delete file
-third line after delete file
+This is first line after delete
